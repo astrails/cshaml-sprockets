@@ -31,9 +31,11 @@ Or to use CoffeeScript in haml templates name the file
 
 You can now access the template anywhere in your javascript or coffeescript code.
 
-    JST["templates/hello"]()
+    JST["templates/hello"](model: model)
 
-This should give you back the string `"<h1>Hello HAML</h1>"`.
+This should give you back the string `"<h1>model title</h1>"`.
+
+Refer to [clientside-haml-js] for more details.
 
 ## LICENSE
 
