@@ -46,7 +46,7 @@ This is distributed under the MIT license.
 
 
 [HAML]: http://haml-lang.com/
-[clientside-haml-js]: https://github.com/creationix/haml-js
+[clientside-haml-js]: https://github.com/uglyog/clientside-haml-js
 [haml-sprockets]: https://github.com/dharanasoft/haml-sprockets
 [underscore]: http://documentcloud.github.com/underscore/
 [underscore.string]: http://epeli.github.com/underscore.string/
